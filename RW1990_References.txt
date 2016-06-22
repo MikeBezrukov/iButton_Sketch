@@ -1,0 +1,5 @@
+WD1990 References:
+1)http://domofon-master2009.narod.ru/publ/rabota_s_kljuchom_tm_2004/1-1-0-5
+2)https://geektimes.ru/post/258786/
+3)http://soltau.ru/index.php/arduino/item/394-kak-sdelat-kopiyu-klyucha-dlya-domofona-v-domashnikh-usloviyakh
+4)http://robocraft.ru/blog/arduino/118.html
